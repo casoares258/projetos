@@ -1,0 +1,97 @@
+
+
+
+.area-cabecalho{
+    background-color: #29292a;
+    color: #fff;
+    letter-spacing:  .05em; 
+    padding: 15px;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;;
+}
+
+
+
+/* ***Formatação da area principal***/ 
+
+
+
+
+.area-postagens{
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.area-principal{
+    width: 920px;
+    margin: 0 auto;
+}
+
+
+/*Fim da area principal*/
+
+
+/*Inicil da area-menu*/
+
+.area-logo{
+    padding: 10px;
+}
+
+.area-menu{
+    padding: 10px;
+}
+
+.branco{
+    color: white;
+}
+
+/*Fim da area-menu*/
+
+.area-postagens{
+    width: 660px;
+    float: left;
+}
+
+#area-lateral{
+   width: 240px;
+   float: right;
+}
+
+.postagem{
+    padding: 20px;
+    margin-bottom: 20px;
+}
+/*
+
+
+/*Are Global*/
+h1{
+    color: #4e4e4e;
+    font-size: 2.5em;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:link, a:visited {
+    color: rgb(255, 255, 255);
+    padding: 8px 12px;
+}
+
+a:hover{
+    color: #f7b600;
+    background: #fff;
+}
+
+a{
+    text-decoration: none;
+}
+
+body {
+    font-size: 1em;
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    background: #e6e6e6;
+}
+/*Fim da area Global*/
